@@ -1,8 +1,8 @@
 <?php
 
 # seting koneksi webservices #
-$xrsid = "1101015";  # ID Rumah Sakit #
-$xpass = md5("12345"); # Password #
+$xrsid = "koderumahsakit";  # ID Rumah Sakit #
+$xpass = md5("password"); # Password #
 $kode_tipe_pasien="0004"; #kode tipe pasien
 $kode_kelas_ruang="0005"; # kode kelas ruang
 
