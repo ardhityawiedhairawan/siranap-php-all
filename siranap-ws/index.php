@@ -3,12 +3,12 @@
 # seting koneksi database #
 $servername = "localhost";
 $username = "root";
-$password = "";
-$dbname = "siranap";
+$password = "PasswordDatabaseAnda";
+$dbname = "NamaDatabaseANDA";
 
 # seting koneksi webservices #
-$xrsid = "3404015";  # ID Rumah Sakit #
-$xpass = md5("12345"); # Password #
+$xrsid = "Kode_rumah_sakit";  # ID Rumah Sakit #
+$xpass = md5("password_rumah_sakit"); # Password #
 $strURLSiranap = "http://sirs.yankes.kemkes.go.id/sirsservice/ranap";
 
 
